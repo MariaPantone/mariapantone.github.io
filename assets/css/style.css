@@ -16,6 +16,11 @@ body {
   background: transparent;
 }
 
+.img-fluid {
+  border-image: 1 solid;
+  border-radius: 250px;
+  }
+
 body::before {
   content: "";
   position: fixed;
@@ -143,6 +148,7 @@ h1, h2, h3, h4, h5, h6 {
 /* Desktop Navigation */
 .nav-menu {
   margin-top: 35px;
+
 }
 
 .nav-menu ul {
@@ -150,6 +156,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0;
   padding: 0;
   list-style: none;
+
 }
 
 .nav-menu li + li {
