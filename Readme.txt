@@ -1,5 +1,5 @@
 
 #Home
-![step1](https://github.com/MariaPantone/Javascript_projects/blob/main/SitoWebMariaPantone.JPG)
-![step1](https://github.com/MariaPantone/Javascript_projects/blob/main/SitoWebMariaPantone1.JPG)
-![step1](https://github.com/MariaPantone/Javascript_projects/blob/main/SitoWebMariaPantone.JPG)
+![step1](https://github.com/MariaPantone/mariapantone.github.io/SitoWeb/SitoWebMariaPantone.JPG)
+![step1](https://github.com/MariaPantone/mariapantone.github.io/SitoWeb/SitoWebMariaPantone2.JPG)
+![step1](https://github.com/MariaPantone/mariapantone.github.io/SitoWeb/SitoWebMariaPantone2.JPG)
