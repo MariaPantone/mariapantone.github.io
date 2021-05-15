@@ -1,6 +1,5 @@
-Thanks for downloading this template!
 
-Template Name: Personal
-Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+#Home
+![step1](https://github.com/MariaPantone/Javascript_projects/blob/main/SitoWebMariaPantone.JPG)
+![step1](https://github.com/MariaPantone/Javascript_projects/blob/main/SitoWebMariaPantone1.JPG)
+![step1](https://github.com/MariaPantone/Javascript_projects/blob/main/SitoWebMariaPantone.JPG)
